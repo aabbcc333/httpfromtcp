@@ -8,7 +8,7 @@ import (
 	"log"
 	"net"
 
-	request "github.com/aabbcc333/httpfromtcp/internal"
+	"github.com/aabbcc333/httpfromtcp/internal/request"
 	//"os"
 )
 
